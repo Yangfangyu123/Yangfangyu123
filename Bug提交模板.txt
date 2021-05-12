@@ -1,0 +1,31 @@
+标题：[PC][模块]标题（中文、英文）[概率]
+
+描述：
+
+< Test configuration for Android >
+ HW Status：DVT
+ Android Version：NA
+ PC Package Version：\\10.110.62.117\release\ARPC_SW\Alpha
+ Country Code and Language: NA-中文
+ Failed Test Tools：NA
+
+< Fail rate>
+Fail Rate：
+Fail On：OB #1 PC P1 480 Y720,
+
+<Symptom Description>
+长按鼠标滚轮2S以上，重新校准眼镜中的虚拟影像功能未实现（Long press the mouse wheel for more than 2S, and the function of recalibrating the virtual image in the glasses is not realized）
+
+<Expected Behavior>
+满内存后预期不会出现停止运行（中文、英文）
+
+<Attachment>
+Picture：NA
+video：NA
+Log：NA
+
+<Steps to Reproduce>
+1.设置字体超大进入信息字体显示不全（中文、英文）<-Problem
+
+<Reporter>
+PA_杨方宇 / 17645146764 /yangfy4@lenovo.com
